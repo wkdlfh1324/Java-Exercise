@@ -1,6 +1,5 @@
 package Ch6;
 
-import java.nio.channels.ShutdownChannelGroupException;
 import java.util.Arrays;
 
 // 자바의 정석 6장 17번 문제
