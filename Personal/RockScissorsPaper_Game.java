@@ -3,7 +3,7 @@ package Personal;
 import java.util.Scanner;
 
 // 가위바위보 게임
-// 22 / 06 / 06
+// Date : 22 / 06 / 06
 // 같은 내용이 반복되는게 많아 수정 예정
 
 public class RockScissorsPaper_Game {
