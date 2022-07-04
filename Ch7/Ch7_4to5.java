@@ -49,11 +49,7 @@ class MyTv {
 		return volume;
 	}
 	void gotoPrevChannel() {
-		int prev; // 이전 채널 임시 저장할 변수
-		
-		prev = this.channel;
-		this.channel = this.prevChannel;
-		this.prevChannel = prev;
+		setChannel(prevChannel);
 	}
 	
 }
